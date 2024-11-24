@@ -1,0 +1,6 @@
+[submodule "Calculadora"]
+	path = Calculadora
+	url = https://github.com/Lazaro241/CalculadoraJS-Objetos-Clases
+[submodule "ListaDeTareas"]
+	path = ListaDeTareas
+	url = https://github.com/Lazaro241/ListaDeTareasJS_POO-Prototipos
